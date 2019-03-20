@@ -1,6 +1,9 @@
 Base Impact:
 The sum of queue lengths over the duration of the bottleneck.
 
+Congestion:
+Measured speed as a percentage of the free flow speed.
+
 Planning Time Index:
 The total travel time that should be planned when an adequate buffer time is included (95% Travel Time / Free-flow Travel Time). The planning time index compares near-worst case travel time to a travel time in light or free-flow traffic. For example, a planning time index of 1.60 means that, for a 15-minute trip in light traffic, the total time that should be planned for the trip is 24 minutes (15 minutes x 1.60 = 24 minutes).
 
