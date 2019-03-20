@@ -1,12 +1,14 @@
-Congestion:
-Base impact weighted by the measured speed as a percentage of free-flow speed. Similar to the speed differential metric, the congestion metric should be used when you want to identify and rank bottlenecks from the individual vehicle perspective.
-NOTE: The term congestion is defined as "measured speed as a percent of the free-flow speed"
+Base Impact:
+The sum of queue lengths over the duration of the bottleneck.
+
+Planning Time Index:
+The total travel time that should be planned when an adequate buffer time is included (95% Travel Time / Free-flow Travel Time). The planning time index differs from the buffer index because it includes typical delay as well as unexpected delay. Thus, the planning time index compares near-worst case travel time to a travel time in light or free-flow traffic. For example, a planning time index of 1.60 means that, for a 15-minute trip in light traffic, the total time that should be planned for the trip is 24 minutes (15 minutes x 1.60 = 24 minutes).
 
 Speed Differential:
 Base impact weighted by the difference between free-flow speed and observed speed. This metric should be used when you want to identify and rank bottlenecks from the individual vehicle perspective.
 
 Total Delay:
-Base impact weighted by the difference between free-flow speed and observed speed multiplied by the average daily volume (AADT). This metric should be used to rank and compare the estimated total delay from all vehicles within the bottleneck.
+Speed Differential multiplied by the annual average daily traffic (AADT). This metric should be used to rank and compare the estimated total delay from all vehicles within the bottleneck.
 
-Weighted Base Impact:
-The base impact weighted by speed differential, congestion or total delay - provide additional insight into the effects of bottlenecks on traffic in your area.
+Travel Time Index:
+Travel time represented as a percentage of the ideal travel time (Travel Time / Free-flow Travel Time).
