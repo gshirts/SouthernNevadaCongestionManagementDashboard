@@ -1,3 +1,15 @@
+AM Peak - 7 a.m. - 9 a.m.
+PM Peak - 4 a.m. - 6 p.m.
+
+Winter - January, February
+Spring - March, April
+Early Summer - May, June
+Late Summer - July, August
+Fall - September, October
+Holiday - November, December
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Base Impact:
 The sum of queue lengths over the duration of the bottleneck.
 
