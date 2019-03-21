@@ -12,3 +12,5 @@ Only Incidents with timestamps and a reported direction are mapped.
 Only incidents with reported clearance time less than 20.717361 days are included in the average clearance time statistic.
 
 Employment clusters uses ESRI point clustering and are based off of geocoded second quarter 2014 data from Nevada Department of Employment, Training and Rehabilitation.
+
+Performance Measures are 2 Month Mid-Week (Tuesday, Wednesday,  & Thursday) Averages.
