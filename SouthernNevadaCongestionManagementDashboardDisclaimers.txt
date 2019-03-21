@@ -1,0 +1,14 @@
+Projects that appear on the map doesn't represent an exhaustive accounting of construction events.
+Projects on the map based on reported actual or estimated construction start and end dates and only denote a possible construction event.
+Projects on the map may represent a mid-point of an extent of road and may not be the actual location of construction.
+
+Bottlenecks not filtered by time of day.
+Only Bottlenecks with Inrix calculated total delay are ranked.
+Only Bottlenecks with an average daily duration of 5 minutes over a two month period are mapped and ranked.
+Only Bottlenecks with an average maximum que length greater than .3 miles are mapped and ranked.
+
+Only Incidents discovered after the beginning peak period are mapped.
+Only Incidents with timestamps and a reported direction are mapped.
+Only incidents with reported clearance time less than 20.717361 days are included in the average clearance time statistic.
+
+Employment clusters uses ESRI’s point clustering and are based off of geocoded second quarter 2014 data from Nevada Department of Employment, Training and Rehabilitation.
