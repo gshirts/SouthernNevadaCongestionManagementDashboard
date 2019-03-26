@@ -1,4 +1,7 @@
-Projects that appear on the map doesn't represent an exhaustive accounting of construction events.
+Selected sub-segment geography only approximates the geography used by Inrix to collect speed data.
+Sub-segment directional arrows may contain errors and are not authoritative for determining the direction of traffic flow.  
+
+Projects that appear on the map do not represent an exhaustive accounting of all construction events.
 Projects on the map based on reported actual or estimated construction start and end dates and only denote a possible construction event.
 Projects on the map may represent a mid-point of an extent of road and may not be the actual location of construction.
 
@@ -14,3 +17,4 @@ Only incidents with reported clearance time less than 20.717361 days are include
 Employment clusters uses ESRI point clustering and are based off of geocoded second quarter 2014 data from Nevada Department of Employment, Training and Rehabilitation.
 
 Performance Measures are 2 Month Mid-Week (Tuesday, Wednesday,  & Thursday) Averages.
+Segment Performance Measures are harmonic means weighted by sub-segment length.
