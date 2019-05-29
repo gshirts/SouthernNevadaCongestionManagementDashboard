@@ -6,7 +6,7 @@ Projects on the map based on reported actual or estimated construction start and
 Projects on the map may represent a mid-point of an extent of road and may not be the actual location of construction.
 
 Bottlenecks not filtered by time of day.
-Only Bottlenecks with Inrix calculated total delay are ranked.
+Bottleneck Charts aggregate all bottlenecks at an approximate head location.
 Only Bottlenecks with an average daily duration of 5 minutes over a two month period are mapped and ranked.
 Only Bottlenecks with an average maximum que length greater than .3 miles are mapped and ranked.
 
